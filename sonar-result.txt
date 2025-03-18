@@ -1,9 +1,2 @@
-<<<<<<< HEAD
 {"task":{"id":"AZWq4Vi-Z9_gaBHbPIEi","type":"REPORT","componentId":"AZU9G6MuPxWuNG3aEDrd","componentKey":"com.redhat:csb-producer","componentName":"csb-producer","componentQualifier":"TRK","analysisId":"AZWq4VpAAmNnQo1YPAZe","status":"SUCCESS","submittedAt":"2025-03-18T20:10:49+0000","startedAt":"2025-03-18T20:10:50+0000","executedAt":"2025-03-18T20:10:50+0000","executionTimeMs":579,"hasScannerContext":true,"warningCount":2,"warnings":[]}}
-=======
-<<<<<<< HEAD
-{"task":{"id":"AZWqdzRCZ9_gaBHbPIEf","type":"REPORT","componentId":"AZU9G6MuPxWuNG3aEDrd","componentKey":"com.redhat:csb-producer","componentName":"csb-producer","componentQualifier":"TRK","analysisId":"AZWqdzZ8AmNnQo1YPAGZ","status":"SUCCESS","submittedAt":"2025-03-18T18:14:53+0000","startedAt":"2025-03-18T18:14:54+0000","executedAt":"2025-03-18T18:14:54+0000","executionTimeMs":469,"hasScannerContext":true,"warningCount":2,"warnings":[]}}
-=======
-{"task":{"id":"AZWlWY8HZ9_gaBHbPIEQ","type":"REPORT","componentId":"AZU9G6MuPxWuNG3aEDrd","componentKey":"com.redhat:csb-producer","componentName":"csb-producer","componentQualifier":"TRK","analysisId":"AZWlWZCSAmNnQo1YO-nA","status":"SUCCESS","submittedAt":"2025-03-17T18:24:24+0000","startedAt":"2025-03-17T18:24:25+0000","executedAt":"2025-03-17T18:24:25+0000","executionTimeMs":569,"hasScannerContext":true,"warningCount":2,"warnings":[]}}
->>>>>>> f1939338f953e1429f78df0ac37ad9caed32cd75
->>>>>>> 9d8042c79a84939ba4b7626b4fd73ae3de35aada
+
