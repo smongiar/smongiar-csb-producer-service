@@ -1,1 +1,2 @@
 {"task":{"id":"AZXuVD1g12OVHO51_fyw","type":"REPORT","componentId":"AZXtPdzmw1lAMRHD206h","componentKey":"com.redhat:csb-producer","componentName":"csb-producer","componentQualifier":"TRK","analysisId":"AZXuVEUkyW99F7TAS5p3","status":"SUCCESS","submittedAt":"2025-03-31T22:30:53+0000","startedAt":"2025-03-31T22:30:54+0000","executedAt":"2025-03-31T22:30:56+0000","executionTimeMs":1983,"hasScannerContext":true,"warningCount":2,"warnings":[]}}
+
